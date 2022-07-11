@@ -2,7 +2,11 @@
 
 I exist
 
-Hi, I'm Septikai, I enjoy programming a lot and spend a lot of my free time working on various projects, some of which can be found on github.
+<br>
+
+Hi, I'm Septikai.
+
+I enjoy programming a lot, and spend most of my free time working on various projects, some of which can be found on github.
 
 ## Projects
 
