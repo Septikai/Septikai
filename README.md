@@ -8,19 +8,8 @@ Hi, I'm Septikai.
 
 I enjoy programming a lot, and spend most of my free time working on various projects, some of which can be found on github.
 
-## Projects
-
-### Current
-
-My Website: [septikai.me](https://www.septikai.me) | [Github](https://github.com/Septikai/Septikai-Website)
-
-Discord Bot for Nullzee's Cave: [Github](https://github.com/nullzee-cave/nullzee-bot)
-
-Dashboard for Nullzee's Cave Bot: [Frontend Github](https://github.com/Septikai/nullzee-dashboard) | [Backend Github](https://github.com/Septikai/nullzee-dashboard-backend)
-
-### Past
-
-Skyhouse: [Website](https://skyblock.tools) | [Github Org](https://github.com/skyblock-tools)
+### Projects
+https://github.com/Septikai/Project-List
 
 #
 
